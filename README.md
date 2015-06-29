@@ -8,12 +8,13 @@ Isometric
 General Gameplay
 ----------------
 * Character is controlled via tank controls in open world style map. 
-* Minigames are activated to progress through the level, similar to how an rpg battle would warp the player to a battle screen
+* Mini-games are activated to progress through the level, similar to how an rpg battle would warp the player to a battle screen
 * Level will be broken off into sections
-* These sections will be acccessed via rooms or conveyerbelts
+* These sections will be accessed via rooms or conveyor belts
 
 Story
 ------
 * If we have time we will go back and make the choices the player makes affect the ending.
-* Any Dialog will be displayed through on screen dialog boxes
-* Choices made can be framed as ethical dillemas (maybe choosing if a robot that clearly is not self aware lives or dies)
+* Any Dialogue will be displayed through on screen dialogue boxes
+* Choices made can be framed as ethical dilemmas (maybe choosing if a robot that clearly is not self aware lives or dies)
+* [The story so far...](https://docs.google.com/document/d/1xe_SeS3iRbpX1HUiuzulzOYhe5yHen74t0wRcZQQZQU/edit)
