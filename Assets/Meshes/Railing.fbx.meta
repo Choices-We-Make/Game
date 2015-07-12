@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: 8f081b7876bbd4f4094abb482b56880d
-timeCreated: 1436674794
+guid: 6c3ab011db3b5dd44ae1f38fdcc51e36
+timeCreated: 1436687198
 licenseType: Free
 ModelImporter:
   serializedVersion: 18
@@ -9,8 +9,7 @@ ModelImporter:
     400000: //RootNode
     2300000: //RootNode
     3300000: //RootNode
-    4300000: Cube
-    4300002: Platform
+    4300000: Rail
   materials:
     importMaterials: 1
     materialName: 0
