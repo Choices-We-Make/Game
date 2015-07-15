@@ -6,13 +6,12 @@ Material:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: Grate
+  m_Name: Yellow
   m_Shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
-  m_ShaderKeywords: _ALPHATEST_ON
+  m_ShaderKeywords: 
   m_LightmapFlags: 5
-  m_CustomRenderQueue: 2450
-  stringTagMap:
-    RenderType: TransparentCutout
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
   m_SavedProperties:
     serializedVersion: 2
     m_TexEnvs:
@@ -20,7 +19,7 @@ Material:
         first:
           name: _MainTex
         second:
-          m_Texture: {fileID: 2800000, guid: 82e52b8d6b4bc94449683127907e6ff4, type: 3}
+          m_Texture: {fileID: 0}
           m_Scale: {x: 1, y: 1}
           m_Offset: {x: 0, y: 0}
       data:
@@ -91,7 +90,7 @@ Material:
       data:
         first:
           name: _Cutoff
-        second: .786000013
+        second: .5
       data:
         first:
           name: _ZWrite
@@ -99,11 +98,11 @@ Material:
       data:
         first:
           name: _Glossiness
-        second: .495999992
+        second: .5
       data:
         first:
           name: _Metallic
-        second: .368000001
+        second: 0
       data:
         first:
           name: _BumpScale
@@ -127,7 +126,7 @@ Material:
       data:
         first:
           name: _Mode
-        second: 1
+        second: 0
     m_Colors:
       data:
         first:
@@ -136,4 +135,4 @@ Material:
       data:
         first:
           name: _Color
-        second: {r: .33088237, g: .33088237, b: .33088237, a: 1}
+        second: {r: .947261751, g: 1, b: .0441176295, a: 1}
